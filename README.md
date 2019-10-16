@@ -1,5 +1,5 @@
 # 猜数字游戏
-
+dmg下载地址: [https://github.com/LinRayx/Qt_GuessNumber/raw/master/GuessNumber.dmg](https://github.com/LinRayx/Qt_GuessNumber/raw/master/GuessNumber.dmg)
 ## 主要功能：
 登陆界面选择游戏时间，然后进入游戏界面，首先随机产生一个数字，游戏界面有一个进度条代表剩余多少时间。同时游戏界面还有一个信息窗口，表示每次猜测的结果。并显示每次猜测的数字。同时也需要按钮来输入每次猜测的数字。
 猜测正确或者游戏结束跳到相应的界面。
