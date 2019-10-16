@@ -1,7 +1,9 @@
 # 猜数字游戏
 dmg下载地址: [https://github.com/LinRayx/Qt_GuessNumber/raw/master/GuessNumber.dmg](https://github.com/LinRayx/Qt_GuessNumber/raw/master/GuessNumber.dmg)
+
 代码地址: [https://github.com/LinRayx/Qt_GuessNumber](https://github.com/LinRayx/Qt_GuessNumber)
 
+博客地址: http://106.15.249.102/cai-shu-zi-you-xi/
 ![-w800](http://106.15.249.102/wp-content/uploads/2019/10/15712386125962.jpg)
 ![-w800](http://106.15.249.102/wp-content/uploads/2019/10/15712386202735.jpg)
 ![-w800](http://106.15.249.102/wp-content/uploads/2019/10/15712386307329.jpg)
