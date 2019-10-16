@@ -1,5 +1,12 @@
 # 猜数字游戏
 dmg下载地址: [https://github.com/LinRayx/Qt_GuessNumber/raw/master/GuessNumber.dmg](https://github.com/LinRayx/Qt_GuessNumber/raw/master/GuessNumber.dmg)
+代码地址: [https://github.com/LinRayx/Qt_GuessNumber](https://github.com/LinRayx/Qt_GuessNumber)
+
+![-w800](media/15712165704702/15712386125962.jpg)
+![-w800](media/15712165704702/15712386202735.jpg)
+![-w800](media/15712165704702/15712386307329.jpg)
+
+
 ## 主要功能：
 登陆界面选择游戏时间，然后进入游戏界面，首先随机产生一个数字，游戏界面有一个进度条代表剩余多少时间。同时游戏界面还有一个信息窗口，表示每次猜测的结果。并显示每次猜测的数字。同时也需要按钮来输入每次猜测的数字。
 猜测正确或者游戏结束跳到相应的界面。
@@ -40,7 +47,6 @@ dmg下载地址: [https://github.com/LinRayx/Qt_GuessNumber/raw/master/GuessNumb
     void keyPressEvent(QKeyEvent *event); // 键盘事件
     void keyAddStr(int val);         // 键盘输入
 ```
-
 ## 流程:
 进入游戏->开始倒计时->进行输入猜测->时间到|猜测正确->结果画面    
     
