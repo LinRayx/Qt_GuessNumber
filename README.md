@@ -2,9 +2,9 @@
 dmg下载地址: [https://github.com/LinRayx/Qt_GuessNumber/raw/master/GuessNumber.dmg](https://github.com/LinRayx/Qt_GuessNumber/raw/master/GuessNumber.dmg)
 代码地址: [https://github.com/LinRayx/Qt_GuessNumber](https://github.com/LinRayx/Qt_GuessNumber)
 
-![-w800](media/15712165704702/15712386125962.jpg)
-![-w800](media/15712165704702/15712386202735.jpg)
-![-w800](media/15712165704702/15712386307329.jpg)
+![-w800](http://106.15.249.102/wp-content/uploads/2019/10/15712386125962.jpg)
+![-w800](http://106.15.249.102/wp-content/uploads/2019/10/15712386202735.jpg)
+![-w800](http://106.15.249.102/wp-content/uploads/2019/10/15712386307329.jpg)
 
 
 ## 主要功能：
