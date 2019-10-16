@@ -16,6 +16,7 @@
 游戏时间，进度条计时器，结果图片计时器，结果图片，猜测数字，随机产生的数字
 
 参数:
+```cpp
     int gameTime;
     int barTimerId;
     int imageTimerId;
@@ -23,8 +24,9 @@
     QString guessStr;
     QString randStr;
     
-
+```
 槽函数/方法
+```cpp
     void enterSlot();                // 开始游戏
     void timerEvent(QTimerEvent*);   // 计时器事件
     void addStr();                   // 输入数字添加进字符串
@@ -37,6 +39,7 @@
     void enterLoseImage();           // 失败画面
     void keyPressEvent(QKeyEvent *event); // 键盘事件
     void keyAddStr(int val);         // 键盘输入
+```
 
 ## 流程:
 进入游戏->开始倒计时->进行输入猜测->时间到|猜测正确->结果画面    
